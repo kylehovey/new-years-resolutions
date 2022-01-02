@@ -7,6 +7,7 @@ import ResolutionList from './components/resolution_list';
 const App: React.FC = () => (
   <div className="container">
     <div className="content">
+      <div className="logo" />
       <header>
         <h1>Resolutions for 2022</h1>
       </header>
